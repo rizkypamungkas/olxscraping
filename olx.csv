@@ -1,0 +1,515 @@
+﻿Type,Price,Locations,Year,Kilometres
+Daihatsu Sirion,Rp 125.000.000,Pasar Minggu,2017, 155.000 - 160.000
+Toyota Agya,Rp 109.000.000,Pesanggrahan,2019, 30.000 - 35.000
+Wuling Cortez,Rp 162.000.000,Kebayoran Lama,2021, 55.000 - 60.000
+Mitsubishi Outlander Sport,Rp 169.000.000,Pasar Minggu,2015, 115.000 - 120.000
+Honda Brio Satya,Rp 123.000.000,Pancoran,2017, 85.000 - 90.000
+Hyundai Stargazer,Rp 284.900.000,Cilandak,2024, 0 - 5.000
+Mercedes-Benz C200,Rp 499.000.000,Pasar Minggu,2017, 40.000 - 45.000
+Lexus RX300,Rp 980.000.000,Cilandak,2020, 20.000 - 25.000
+Toyota Kijang Innova,Rp 255.000.000,Kebayoran Baru,2018, 75.000 - 80.000
+BMW 318i,Rp 97.000.000,Kebayoran Lama,1991, 115.000 - 120.000
+Audi Q7,Rp 900.000.000,Cilandak,2016, 40.000 - 45.000
+Bentley Bentayga,Rp 8.700.000.000,Kebayoran Baru,2023, 0 - 5.000
+Hyundai Creta,Rp 300.000.000,Pesanggrahan,2022, 30.000 - 35.000
+Honda CR-Z,Rp 317.000.000,Kebayoran Lama,2013, 15.000 - 20.000
+Nissan Grand livina,Rp 85.000.000,Pesanggrahan,2010, 175.000 - 180.000
+BMW 320i,Rp 450.000.000,Pancoran,2018, 25.000 - 30.000
+Honda HR-V,Rp 220.000.000,Mampang Prapatan,2020, 35.000 - 40.000
+Nissan Serena,Rp 178.000.000,Kebayoran Baru,2014, 90.000 - 95.000
+Honda CR-V,Rp 465.000.000,Cilandak,2019, 25.000 - 30.000
+Daihatsu Sirion,Rp 125.000.000,Cilandak,2017, 155.000 - 160.000
+Suzuki SX4,Rp 167.000.000,Pasar Minggu,2018, 75.000 - 80.000
+Toyota Avanza,Rp 294.000.000,Pasar Minggu,2023, 10.000 - 15.000
+Toyota Kijang Innova,Rp 274.000.000,Cilandak,2018, 110.000 - 115.000
+Daihatsu Ayla,Rp 78.000.000,Pasar Minggu,2015, 85.000 - 90.000
+Mitsubishi Outlander PHEV,Rp 595.000.000,Cilandak,2020, 15.000 - 20.000
+Toyota Alphard,Rp 825.000.000,Kebayoran Lama,2019, 25.000 - 30.000
+Toyota Kijang Innova,Rp 162.000.000,Cilandak,2012, 115.000 - 120.000
+Nissan Fairlady,Rp 995.000.000,Cilandak,2010, 20.000 - 25.000
+Mercedes-Benz C240,Rp 87.000.000,Kebayoran Baru,2001, 50.000 - 55.000
+Toyota Altis,Rp 160.000.000,Pasar Minggu,2003, 25.000 - 30.000
+Lexus lx470,Rp 445.000.000,Mampang Prapatan,2002, 95.000 - 100.000
+Honda BR-V,Rp 195.000.000,Kebayoran Lama,2021, 35.000 - 40.000
+Toyota Kijang Innova,Rp 405.000.000,Kebayoran Baru,2020, 25.000 - 30.000
+Hyundai Palisade,Rp 715.000.000,Cilandak,2021, 40.000 - 45.000
+Suzuki Ertiga,Rp 145.000.000,Pasar Minggu,2014, 65.000 - 70.000
+Toyota Vellfire,Rp 310.000.000,Cilandak,2012, 95.000 - 100.000
+Mitsubishi Pajero Sport,Rp 395.000.000,Cilandak,2018, 90.000 - 95.000
+Suzuki Karimun Wagon R,Rp 110.000.000,Cilandak,2019, 75.000 - 80.000
+Honda Civic,Rp 285.000.000,Cilandak,2016, 115.000 - 120.000
+Toyota Agya,Rp 109.000.000,Kebayoran Lama,2019, 30.000 - 35.000
+Honda Brio,Rp 115.000.000,Pasar Minggu,2018, 85.000 - 90.000
+Daihatsu Terios,Rp 123.000.000,Pasar Minggu,2014, 120.000 - 125.000
+Toyota Agya,Rp 105.000.000,Pasar Minggu,2018, 95.000 - 100.000
+Wuling Cortez,Rp 170.000.000,Pasar Minggu,2021, 20.000 - 25.000
+Toyota Fortuner,Rp 495.000.000,Cilandak,2021, 75.000 - 80.000
+Toyota Alphard,Rp 889.000.000,Cilandak,2019, 20.000 - 25.000
+Toyota Alphard,Rp 668.000.000,Kebayoran Lama,2016, 75.000 - 80.000
+Toyota Calya,Rp 157.990.000,Kebayoran Lama,2023, 0 - 5.000
+Lexus NX300,Rp 618.000.000,Jakarta Selatan,2018, 45.000 - 50.000
+Honda HR-V,Rp 210.000.000,Cilandak,2018, 35.000 - 40.000
+Mercedes-Benz ML400,Rp 435.000.000,Cilandak,2015, 25.000 - 30.000
+Toyota Vios,Rp 145.000.000,Pasar Minggu,2016, 105.000 - 110.000
+Hyundai H-1,Rp 150.000.000,Cilandak,2013, 115.000 - 120.000
+Nissan X-Trail,Rp 220.000.000,Cilandak,2017, 70.000 - 75.000
+Toyota Kijang Innova,Rp 325.000.000,Cilandak,2018, 105.000 - 110.000
+Honda HR-V,Rp 222.222.222,Cilandak,2016, 60.000 - 65.000
+Toyota Alphard,Rp 289.000.000,Cilandak,2012, 85.000 - 90.000
+Nissan Grand livina,Rp 75.000.000,Pasar Minggu,2013, 100.000 - 105.000
+Toyota Fortuner,Rp 325.000.000,Kebayoran Lama,2018, 95.000 - 100.000
+Suzuki SX4,Rp 167.000.000,Kebayoran Lama,2018, 75.000 - 80.000
+Toyota Sienta,Rp 159.000.000,Pasar Minggu,2017, 95.000 - 100.000
+Nissan X-Trail,Rp 147.000.000,Pasar Minggu,2013, 90.000 - 95.000
+Daihatsu Sigra,Rp 86.000.000,Pasar Minggu,2016, 30.000 - 35.000
+Toyota Yaris,Rp 133.000.000,Cilandak,2015, 10.000 - 15.000
+BMW 320i,Rp 275.000.000,Kebayoran Baru,2014, 65.000 - 70.000
+BMW 528i,Rp 320.000.000,Cilandak,2014, 55.000 - 60.000
+Mercedes-Benz S400L,Rp 820.000.000,Kebayoran Lama,2015, 50.000 - 55.000
+Honda HR-V,Rp 268.000.000,Cilandak,2019, 45.000 - 50.000
+Toyota Camry,Rp 225.000.000,Cilandak,2018, 65.000 - 70.000
+Toyota Yaris,Rp 155.000.000,Pasar Minggu,2015, 45.000 - 50.000
+Lexus Lain-lain,Rp 1.885.000.000,Kebayoran Baru,2024, 0 - 5.000
+Suzuki Swift,Rp 120.000.000,Cilandak,2012, 135.000 - 140.000
+Toyota Kijang Innova,Rp 315.000.000,Cilandak,2019, 75.000 - 80.000
+Mazda CX-7,Rp 136.000.000,Kebayoran Baru,2011, 135.000 - 140.000
+Honda BR-V,Rp 160.000.000,Pancoran,2016, 155.000 - 160.000
+Toyota Vellfire,Rp 235.000.000,Cilandak,2010, 105.000 - 110.000
+Mitsubishi Outlander Sport,Rp 180.000.000,Cilandak,2017, 35.000 - 40.000
+Honda CR-V,Rp 315.000.000,Cilandak,2017, 85.000 - 90.000
+Toyota Voxy,Rp 335.000.000,Cilandak,2018, 65.000 - 70.000
+Toyota Avanza,Rp 294.000.000,Kebayoran Lama,2023, 10.000 - 15.000
+Toyota Sienta,Rp 163.000.000,Cilandak,2016, 50.000 - 55.000
+Toyota Kijang Innova,Rp 246.000.000,Cilandak,2018, 60.000 - 65.000
+Nissan March,Rp 99.000.000,Pasar Minggu,2015, 40.000 - 45.000
+Honda Jazz,Rp 219.000.000,Cilandak,2019, 20.000 - 25.000
+BMW 320i,Rp 283.000.000,Kebayoran Baru,2013, 60.000 - 65.000
+Mercedes-Benz GLE400,Rp 779.999.999,Cilandak,2016, 45.000 - 50.000
+Toyota Avanza,Rp 145.500.000,Kebayoran Baru,2018, 105.000 - 110.000
+Hyundai Palisade,Rp 920.000.000,Jakarta Selatan,2023, 0 - 5.000
+Toyota Kijang Innova,Rp 293.000.000,Pancoran,2019, 70.000 - 75.000
+Hyundai H1,Rp 245.000.000,Cilandak,2017, 55.000 - 60.000
+Mercedes-Benz ML400,Rp 525.000.000,Cilandak,2015, 45.000 - 50.000
+Daihatsu Xenia,Rp 145.000.000,Cilandak,2019, 5.000 - 10.000
+Mercedes-Benz E250,Rp 395.000.000,Pasar Minggu,2014, 15.000 - 20.000
+Mercedes-Benz C180,Rp 78.000.000,Pesanggrahan,2004, 155.000 - 160.000
+Maserati Gran Turismo,Rp 1.380.000.000,Kebayoran Baru,2009, 10.000 - 15.000
+Toyota Voxy,Rp 370.000.000,Cilandak,2018, 55.000 - 60.000
+Mercedes-Benz Lain-lain,Rp 167.000.000,Pesanggrahan,2011, 45.000 - 50.000
+Toyota Avanza,Rp 137.000.000,Pesanggrahan,2018, 105.000 - 110.000
+Toyota Kijang,Rp 65.000.000,Cilandak,2000, >300.000
+Toyota Avanza,Rp 235.000.000,Cilandak,2021, 20.000 - 25.000
+Honda Brio Satya,Rp 132.000.000,Cilandak,2019, 30.000 - 35.000
+Daihatsu Ayla,Rp 111.000.000,Cilandak,2021, 20.000 - 25.000
+Wuling Cortez,Rp 147.000.000,Cilandak,2000, 55.000 - 60.000
+Nissan Evalia,Rp 78.000.000,Cilandak,2013, 80.000 - 85.000
+Audi A4,Rp 225.000.000,Pasar Minggu,2012, 50.000 - 55.000
+Toyota Kijang Innova,Rp 229.000.000,Pancoran,2017, 85.000 - 90.000
+Daihatsu Ayla,Rp 116.400.000,Cilandak,2018, 45.000 - 50.000
+Wuling Almaz RS,Rp 260.000.000,Cilandak,2022, 20.000 - 25.000
+Mercedes-Benz E280,Rp 121.000.000,Cilandak,2007, 125.000 - 130.000
+Toyota Kijang Innova,Rp 255.000.000,Kebayoran Baru,2018, 75.000 - 80.000
+BMW 318i,Rp 105.000.000,Pasar Minggu,2002, 95.000 - 100.000
+Toyota Vellfire,Rp 290.000.000,Kebayoran Baru,2014, 100.000 - 105.000
+Toyota Fortuner,Rp 355.000.000,Pesanggrahan,2017, 65.000 - 70.000
+Toyota Fortuner,Rp 355.000.000,Cilandak,2017, 65.000 - 70.000
+Toyota Fortuner,Rp 355.000.000,Kebayoran Baru,2017, 65.000 - 70.000
+Suzuki Karimun,Rp 74.000.000,Kebayoran Baru,2014, 30.000 - 35.000
+BMW 320i,Rp 145.000.000,Kebayoran Baru,2009, 85.000 - 90.000
+Toyota Alphard,Rp 1.100.000.000,Kebayoran Lama,2021, 30.000 - 35.000
+Daihatsu Ayla,Rp 78.000.000,Kebayoran Lama,2015, 85.000 - 90.000
+Honda HR-V,Rp 184.000.000,Cilandak,2016, 80.000 - 85.000
+Toyota Rush,Rp 201.000.000,Cilandak,2019, 30.000 - 35.000
+Toyota Avanza,Rp 109.000.000,Cilandak,2013, 180.000 - 185.000
+Mitsubishi Outlander Sport,Rp 171.000.000,Cilandak,2017, 90.000 - 95.000
+Volkswagen Caravelle,Rp 179.000.000,Kebayoran Baru,2008, 110.000 - 115.000
+Ford Mustang,Rp 1.850.000.000,Cilandak,2017, 0 - 5.000
+Hyundai Stargazer,Rp 313.000.000,Kebayoran Lama,2023, 0 - 5.000
+Toyota Land Cruiser,Rp 1.900.000.000,Kebayoran Lama,2018, 20.000 - 25.000
+Honda Civic,Rp 105.000.000,Pasar Minggu,2007, 115.000 - 120.000
+Toyota Rush,Rp 190.000.000,Cilandak,2020, 70.000 - 75.000
+Honda HR-V,Rp 223.000.000,Pancoran,2019, 25.000 - 30.000
+Mitsubishi Xpander,Rp 225.000.000,Pesanggrahan,2021, 40.000 - 45.000
+Toyota Kijang Innova,Rp 358.000.000,Cilandak,2021, 85.000 - 90.000
+Toyota Yaris,Rp 185.000.000,Kebayoran Lama,2018, 15.000 - 20.000
+Toyota Kijang Innova,Rp 425.000.000,Kebayoran Lama,2022, 5.000 - 10.000
+Toyota Kijang Innova,Rp 217.000.000,Cilandak,2016, 55.000 - 60.000
+Toyota Raize,Rp 210.000.000,Pesanggrahan,2022, 20.000 - 25.000
+Nissan Serena,Rp 295.000.000,Pesanggrahan,2019, 60.000 - 65.000
+Toyota Calya,Rp 133.000.000,Pesanggrahan,2022, 25.000 - 30.000
+Toyota Rush,Rp 192.000.000,Cilandak,2018, 60.000 - 65.000
+Daihatsu Sirion,Rp 153.000.000,Cilandak,2019, 60.000 - 65.000
+Honda Brio,Rp 126.000.000,Cilandak,2018, 25.000 - 30.000
+Toyota Rush,Rp 123.000.000,Cilandak,2014, 140.000 - 145.000
+Honda Brio,Rp 185.000.000,Kebayoran Baru,2022, 15.000 - 20.000
+Honda Mobilio,Rp 158.000.000,Cilandak,2017, 85.000 - 90.000
+Daihatsu Xenia,Rp 227.000.000,Kebayoran Lama,2024, 0 - 5.000
+Suzuki Ignis,Rp 130.000.000,Pancoran,2019, 35.000 - 40.000
+Mercedes-Benz C200,Rp 170.000.000,Pasar Minggu,2013, 125.000 - 130.000
+Honda Brio Satya,Rp 145.000.000,Pasar Minggu,2019, 25.000 - 30.000
+Toyota Avanza,Rp 95.000.000,Kebayoran Baru,2010, 130.000 - 135.000
+Toyota Alphard,Rp 815.000.000,Pesanggrahan,2018, 55.000 - 60.000
+Honda Jazz,Rp 235.000.000,Cilandak,2020, 25.000 - 30.000
+Lexus RX300,Rp 873.000.000,Kebayoran Baru,2018, 20.000 - 25.000
+Honda CR-V,Rp 345.000.000,Kebayoran Baru,2019, 50.000 - 55.000
+Toyota MR-2,Rp 540.000.000,Pancoran,2002, 25.000 - 30.000
+Maserati Ghibli,Rp 995.000.000,Cilandak,2018, 5.000 - 10.000
+Honda HR-V,Rp 195.000.000,Kebayoran Baru,2017, 50.000 - 55.000
+Toyota Kijang Innova,Rp 594.000.000,Pasar Minggu,2023, 5.000 - 10.000
+Toyota Rush,Rp 188.000.000,Cilandak,2019, 90.000 - 95.000
+Toyota Raize,Rp 187.000.000,Cilandak,2021, 30.000 - 35.000
+Wuling Almaz,Rp 162.000.000,Cilandak,2019, 35.000 - 40.000
+Honda Civic,Rp 172.000.000,Cilandak,2015, 125.000 - 130.000
+DFSK Glory 580,Rp 155.000.000,Kebayoran Baru,2023, 0 - 5.000
+Mini Cooper,Rp 725.000.000,Cilandak,2019, 0 - 5.000
+Toyota Lain-lain,Rp 550.000.000,Kebayoran Baru,2000, 65.000 - 70.000
+Toyota Kijang Innova,Rp 315.000.000,Cilandak,2021, 40.000 - 45.000
+Hyundai Staria,Rp 648.000.000,Cilandak,2021, 25.000 - 30.000
+Toyota Sienta,Rp 169.000.000,Pesanggrahan,2016, 100.000 - 105.000
+Mercedes-Benz E230,Rp 85.000.000,Kebayoran Baru,1996, 170.000 - 175.000
+Toyota Land Cruiser,Rp 1.950.000.000,Pancoran,2017, 35.000 - 40.000
+Ford Escape,Rp 128.000.000,Kebayoran Baru,2012, 155.000 - 160.000
+Daihatsu Xenia,Rp 106.999.999,Kebayoran Baru,2014, 85.000 - 90.000
+BMW 430i,Rp 1.595.000.000,Kebayoran Baru,2023, 0 - 5.000
+Toyota Alphard,Rp 550.000.000,Kebayoran Lama,2015, 90.000 - 95.000
+Chevrolet Captiva,Rp 138.000.000,Kebayoran Baru,2013, 105.000 - 110.000
+Honda Mobilio,Rp 155.000.000,Kebayoran Lama,2018, 90.000 - 95.000
+Toyota Camry,Rp 113.000.000,Pasar Minggu,2009, 115.000 - 120.000
+Suzuki Ertiga,Rp 142.000.000,Cilandak,2018, 75.000 - 80.000
+Honda Brio Satya,Rp 157.000.000,Cilandak,2022, 5.000 - 10.000
+Honda BR-V,Rp 152.000.000,Cilandak,2016, 60.000 - 65.000
+Honda HR-V,Rp 188.000.000,Cilandak,2017, 110.000 - 115.000
+Mercedes-Benz C300,Rp 575.000.000,Kebayoran Baru,2018, 25.000 - 30.000
+Mercedes-Benz G-Class,Rp 575.000.000,Cilandak,1990, 105.000 - 110.000
+Toyota Avanza,Rp 215.100.000,Cilandak,2024, 0 - 5.000
+Daihatsu Xenia,Rp 193.000.000,Kebayoran Baru,2022, 5.000 - 10.000
+BMW 430i,Rp 1.595.000.000,Kebayoran Baru,2023, 0 - 5.000
+Daihatsu Xenia,Rp 81.999.999,Kebayoran Baru,2011, 135.000 - 140.000
+Lexus Lain-lain,Rp 2.200.000.000,Kebayoran Baru,2023, 0 - 5.000
+Toyota Kijang,Rp 60.000.000,Cilandak,2005, 165.000 - 170.000
+Honda City,Rp 128.999.999,Kebayoran Baru,2013, 85.000 - 90.000
+Mercedes-Benz E400,Rp 790.000.000,Kebayoran Lama,2014, 10.000 - 15.000
+Toyota Camry,Rp 125.000.000,Kebayoran Baru,2006, 140.000 - 145.000
+Nissan Serena,Rp 197.500.000,Pancoran,2017, 55.000 - 60.000
+Toyota Kijang,Rp 60.000.000,Cilandak,2005, 175.000 - 180.000
+Hyundai Santa Fe,Rp 550.000.000,Cilandak,2021, 25.000 - 30.000
+Lexus RX300,Rp 848.000.000,Kebayoran Baru,2018, 35.000 - 40.000
+Honda City,Rp 132.000.000,Cilandak,2013, 130.000 - 135.000
+Mazda CX-5,Rp 153.000.000,Cilandak,2013, 125.000 - 130.000
+Honda Freed,Rp 144.000.000,Cilandak,2014, 120.000 - 125.000
+Daihatsu Ayla,Rp 102.000.000,Cilandak,2019, 25.000 - 30.000
+Nissan Evalia,Rp 78.000.000,Cilandak,2013, 105.000 - 110.000
+Toyota Avanza,Rp 251.800.000,Cilandak,2023, 0 - 5.000
+BMW X3,Rp 485.000.000,Kebayoran Baru,2016, 35.000 - 40.000
+Toyota Calya,Rp 100.000.000,Kebayoran Baru,2017, 75.000 - 80.000
+Mazda Capella,Rp 19.000.000,Cilandak,1991, >300.000
+Toyota Fortuner,Rp 249.000.000,Pesanggrahan,2012, 115.000 - 120.000
+Toyota Lain-lain,Rp 250.000.000,Kebayoran Lama,2008, 45.000 - 50.000
+Honda City,Rp 134.000.000,Mampang Prapatan,2012, 85.000 - 90.000
+Mercedes-Benz GLC250,Rp 470.000.000,Kebayoran Lama,2017, 25.000 - 30.000
+Honda HR-V,Rp 288.000.000,Cilandak,2021, 25.000 - 30.000
+Honda Jazz,Rp 118.999.999,Kebayoran Baru,2010, 50.000 - 55.000
+Toyota Yaris,Rp 100.000.000,Cilandak,2012, 50.000 - 55.000
+Honda Mobilio,Rp 126.000.000,Cilandak,2018, 50.000 - 55.000
+Datsun Go Panca,Rp 67.000.000,Kebayoran Lama,2016, 50.000 - 55.000
+Toyota Sienta,Rp 144.000.000,Kebayoran Lama,2017, 115.000 - 120.000
+Daihatsu Sirion,Rp 81.000.000,Cilandak,2013, 90.000 - 95.000
+Nissan Evalia,Rp 77.000.000,Cilandak,2012, 195.000 - 200.000
+Honda HR-V,Rp 169.000.000,Cilandak,2016, 80.000 - 85.000
+Honda City,Rp 185.000.000,Cilandak,2017, 75.000 - 80.000
+Suzuki Ertiga,Rp 168.700.000,Kebayoran Baru,2018, 70.000 - 75.000
+Honda BR-V,Rp 308.400.000,Pasar Minggu,2024, 0 - 5.000
+Honda HR-V,Rp 208.000.000,Cilandak,2018, 30.000 - 35.000
+Nissan X-Trail,Rp 157.000.000,Jakarta Selatan,2014, 80.000 - 85.000
+Honda HR-V,Rp 245.000.000,Kebayoran Lama,2019, 25.000 - 30.000
+Honda Mobilio,Rp 130.000.000,Kebayoran Lama,2015, 50.000 - 55.000
+Daihatsu Sigra,Rp 116.000.000,Cilandak,2020, 85.000 - 90.000
+Toyota Kijang Innova,Rp 249.000.000,Cilandak,2018, 60.000 - 65.000
+Toyota Lain-lain,Rp 2.000.000.000,Cilandak,2023, 0 - 5.000
+Toyota Kijang Innova,Rp 266.000.000,Cilandak,2018, 90.000 - 95.000
+Toyota Calya,Rp 103.000.000,Cilandak,2018, 30.000 - 35.000
+Toyota Agya,Rp 105.000.000,Kebayoran Lama,2018, 45.000 - 50.000
+Honda Mobilio,Rp 110.000.000,Kebayoran Lama,2014, 65.000 - 70.000
+Toyota Hiace,Rp 390.000.000,Pesanggrahan,2016, 235.000 - 240.000
+Honda City,Rp 126.000.000,Cilandak,2013, 20.000 - 25.000
+Toyota Rush,Rp 144.000.000,Kebayoran Baru,2019, 85.000 - 90.000
+Honda Jazz,Rp 182.000.000,Cilandak,2016, 50.000 - 55.000
+Daihatsu Sigra,Rp 88.000.000,Cilandak,2017, 75.000 - 80.000
+Honda CR-V,Rp 161.000.000,Cilandak,2013, 140.000 - 145.000
+Wuling Air EV,Rp 170.000.000,Kebayoran Baru,2022, 20.000 - 25.000
+Mercedes-Benz C200,Rp 225.000.000,Kebayoran Baru,2013, 115.000 - 120.000
+Mitsubishi Pajero Sport,Rp 630.900.000,Kebayoran Baru,2023, 0 - 5.000
+Daihatsu Xenia,Rp 80.500.000,Cilandak,2011, 80.000 - 85.000
+Suzuki Ertiga,Rp 128.000.000,Cilandak,2018, 5.000 - 10.000
+Chevrolet Trax,Rp 179.000.000,Cilandak,2019, 40.000 - 45.000
+Toyota Fortuner,Rp 237.000.000,Cilandak,2015, 115.000 - 120.000
+Suzuki Ertiga,Rp 142.000.000,Cilandak,2018, 75.000 - 80.000
+Lexus RX300,Rp 1.120.000.000,Cilandak,2021, 10.000 - 15.000
+Toyota Alphard,Rp 920.000.000,Pasar Minggu,2019, 30.000 - 35.000
+Suzuki SX4,Rp 113.000.000,Kebayoran Lama,2001, 40.000 - 45.000
+Toyota Hardtop,Rp 255.000.000,Pancoran,1986, 80.000 - 85.000
+Jeep Wrangler,Rp 1.200.000.000,Kebayoran Lama,2015, 30.000 - 35.000
+Toyota Yaris,Rp 128.000.000,Cilandak,2012, 90.000 - 95.000
+Toyota Yaris,Rp 172.000.000,Kebayoran Lama,2017, 35.000 - 40.000
+Toyota Avanza,Rp 81.000.000,Cilandak,2008, 180.000 - 185.000
+Chevrolet Trax,Rp 167.000.000,Cilandak,2018, 50.000 - 55.000
+Honda Brio,Rp 128.000.000,Cilandak,2016, 100.000 - 105.000
+Honda Brio,Rp 148.000.000,Cilandak,2019, 45.000 - 50.000
+Mercedes-Benz C300,Rp 569.000.000,Kebayoran Baru,2018, 20.000 - 25.000
+Land Rover Defender,Rp 2.300.000.000,Kebayoran Lama,2014, 5.000 - 10.000
+Toyota Avanza,Rp 287.000.000,Pesanggrahan,2024, 0 - 5.000
+Toyota Alphard,Rp 865.000.000,Kebayoran Baru,2018, 55.000 - 60.000
+Toyota Hiace,Rp 500.000.000,Pesanggrahan,2021, 5.000 - 10.000
+Jeep Cherokee,Rp 195.000.000,Cilandak,1996, 55.000 - 60.000
+Nissan X-Trail,Rp 98.000.000,Pancoran,2010, 160.000 - 165.000
+Toyota Alphard,Rp 915.000.000,Jakarta Selatan,2019, 30.000 - 35.000
+Wuling Cortez,Rp 152.000.000,Cilandak,2021, 30.000 - 35.000
+Honda HR-V,Rp 195.000.000,Mampang Prapatan,2017, 65.000 - 70.000
+Honda CR-V,Rp 368.000.000,Cilandak,2018, 65.000 - 70.000
+Mini 3 Door,Rp 520.000.000,Kebayoran Baru,2017, 25.000 - 30.000
+Toyota Fortuner,Rp 440.000.000,Jakarta Selatan,2020, 25.000 - 30.000
+Suzuki SX4,Rp 159.000.000,Pesanggrahan,2017, 65.000 - 70.000
+Honda Brio,Rp 171.000.000,Cilandak,2020, 15.000 - 20.000
+Honda Mobilio,Rp 138.000.000,Cilandak,2017, 115.000 - 120.000
+Mitsubishi Xpander,Rp 202.000.000,Cilandak,2019, 30.000 - 35.000
+Honda City,Rp 144.000.000,Cilandak,2014, 100.000 - 105.000
+Daihatsu Terios,Rp 185.000.000,Cilandak,2020, 30.000 - 35.000
+Toyota Yaris,Rp 192.000.000,Pasar Minggu,2019, 35.000 - 40.000
+Mazda Biante,Rp 151.000.000,Mampang Prapatan,2013, 80.000 - 85.000
+Hyundai Santa Fe,Rp 635.000.000,Kebayoran Lama,2023, 0 - 5.000
+Honda CR-V,Rp 461.000.000,Cilandak,2022, 10.000 - 15.000
+Toyota Alphard,Rp 310.000.000,Kebayoran Baru,2012, 100.000 - 105.000
+Toyota Kijang Innova,Rp 175.000.000,Pesanggrahan,2015, 130.000 - 135.000
+Honda Mobilio,Rp 118.000.000,Pesanggrahan,2016, 115.000 - 120.000
+Nissan Grand livina,Rp 96.000.000,Cilandak,2012, 95.000 - 100.000
+Toyota Vios,Rp 71.000.000,Cilandak,2013, >300.000
+Honda HR-V,Rp 187.000.000,Kebayoran Lama,2016, 105.000 - 110.000
+Toyota Kijang Innova,Rp 315.000.000,Kebayoran Baru,2018, 70.000 - 75.000
+Toyota Fortuner,Rp 660.000.000,Pesanggrahan,2023, 10.000 - 15.000
+Nissan Serena,Rp 295.000.000,Cilandak,2019, 45.000 - 50.000
+Mercedes-Benz S400,Rp 750.000.000,Mampang Prapatan,2015, 10.000 - 15.000
+Mercedes-Benz E300,Rp 212.000.000,Kebayoran Baru,2011, 90.000 - 95.000
+Daihatsu Terios,Rp 179.000.000,Cilandak,2018, 40.000 - 45.000
+Suzuki Ignis,Rp 106.000.000,Cilandak,2017, 30.000 - 35.000
+Toyota Voxy,Rp 298.000.000,Cilandak,2017, 135.000 - 140.000
+Toyota Kijang Innova,Rp 233.000.000,Cilandak,2017, 140.000 - 145.000
+Fiat Abarth,Rp 675.000.000,Kebayoran Lama,2012, 25.000 - 30.000
+Mercedes-Benz C200,Rp 230.000.000,Cilandak,2013, 20.000 - 25.000
+BMW 320i,Rp 350.000.000,Cilandak,2015, 25.000 - 30.000
+Toyota Kijang Innova,Rp 386.000.000,Pesanggrahan,2024, 0 - 5.000
+Toyota Nav1,Rp 155.000.000,Jakarta Selatan,2013, 115.000 - 120.000
+Mitsubishi Xpander,Rp 278.000.000,Cilandak,2023, 0 - 5.000
+Honda Civic,Rp 126.000.000,Kebayoran Lama,2008, 110.000 - 115.000
+Toyota Camry,Rp 116.500.000,Kebayoran Lama,2008, 160.000 - 165.000
+BMW 318i,Rp 95.000.000,Cilandak,2002, 0 - 5.000
+Mercedes-Benz E-Class,Rp 625.000.000,Cilandak,2018, 15.000 - 20.000
+Toyota Avanza,Rp 205.000.000,Pesanggrahan,2023, 10.000 - 15.000
+Mitsubishi Pajero Sport,Rp 189.000.000,Pancoran,2010, 185.000 - 190.000
+Toyota Fortuner,Rp 325.000.000,Kebayoran Lama,2015, 55.000 - 60.000
+Toyota Fortuner,Rp 207.000.000,Cilandak,2011, 140.000 - 145.000
+Lexus NX300,Rp 680.000.000,Kebayoran Lama,2018, 25.000 - 30.000
+Mazda 2,Rp 175.000.000,Cilandak,2016, 60.000 - 65.000
+Toyota Sienta,Rp 140.000.000,Cilandak,2017, 90.000 - 95.000
+Honda HR-V,Rp 201.000.000,Cilandak,2017, 20.000 - 25.000
+Toyota Corolla Altis,Rp 265.000.000,Cilandak,2019, 40.000 - 45.000
+Daihatsu Gran max,Rp 66.000.000,Cilandak,2011, 110.000 - 115.000
+Toyota Alphard,Rp 675.000.000,Cilandak,2017, 55.000 - 60.000
+Mercedes-Benz CLA200,Rp 495.000.000,Jakarta Selatan,2017, 15.000 - 20.000
+Toyota Alphard,Rp 790.000.000,Cilandak,2018, 50.000 - 55.000
+Land Rover Lain-lain,Rp 2.555.000.000,Jakarta Selatan,2021, 5.000 - 10.000
+Toyota Sienta,Rp 149.000.000,Pancoran,2018, 65.000 - 70.000
+Lexus NX200t,Rp 585.000.000,Pesanggrahan,2017, 35.000 - 40.000
+Mitsubishi Xpander,Rp 225.000.000,Jakarta Selatan,2021, 40.000 - 45.000
+Mazda CX-5,Rp 338.000.000,Kebayoran Baru,2017, 70.000 - 75.000
+Toyota Yaris,Rp 207.000.000,Cilandak,2019, 35.000 - 40.000
+BMW iX,Rp 1.590.000.000,Jakarta Selatan,2023, 5.000 - 10.000
+BMW X1,Rp 445.000.000,Kebayoran Baru,2019, 25.000 - 30.000
+Nissan Serena,Rp 149.000.000,Pasar Minggu,2014, 90.000 - 95.000
+Hyundai Lain-lain,Rp 651.000.000,Kebayoran Baru,2021, 45.000 - 50.000
+Honda Jazz,Rp 226.000.000,Cilandak,2019, 65.000 - 70.000
+Toyota Rush,Rp 202.000.000,Cilandak,2019, 60.000 - 65.000
+Hyundai Creta,Rp 340.500.000,Kebayoran Lama,2023, 0 - 5.000
+Toyota Alphard,Rp 1.025.000.000,Jakarta Selatan,2020, 10.000 - 15.000
+Mini Cooper Mini Cooper,Rp 415.000.000,Kebayoran Baru,2015, 30.000 - 35.000
+Toyota Harrier,Rp 169.000.000,Pesanggrahan,2010, 110.000 - 115.000
+Mitsubishi Pajero Sport,Rp 527.000.000,Cilandak,2023, 10.000 - 15.000
+Mercedes-Benz S400,Rp 750.000.000,Jakarta Selatan,2014, 10.000 - 15.000
+Hyundai Staria,Rp 651.000.000,Jakarta Selatan,2021, 45.000 - 50.000
+Honda CR-V,Rp 517.000.000,Kebayoran Baru,2022, 25.000 - 30.000
+Ford Lain-lain,Rp 2.800.000.000,Kebayoran Baru,2023, 0 - 5.000
+Honda Mobilio,Rp 155.000.000,Pasar Minggu,2018, 20.000 - 25.000
+Toyota Harrier,Rp 250.000.000,Jakarta Selatan,2012, 115.000 - 120.000
+BMW 320i,Rp 369.000.000,Cilandak,2017, 45.000 - 50.000
+Jeep Wrangler,Rp 1.050.000.000,Kebayoran Baru,2014, 50.000 - 55.000
+Toyota Camry,Rp 149.500.000,Cilandak,2012, 135.000 - 140.000
+BMW X5,Rp 553.000.000,Kebayoran Lama,2016, 25.000 - 30.000
+Mitsubishi Outlander Sport,Rp 162.000.000,Cilandak,2015, 85.000 - 90.000
+Toyota Vios,Rp 126.000.000,Cilandak,2014, 120.000 - 125.000
+Nissan Livina,Rp 79.000.000,Cilandak,2012, 115.000 - 120.000
+Daihatsu Ayla,Rp 114.000.000,Cilandak,2019, 80.000 - 85.000
+Suzuki Splash,Rp 87.000.000,Pancoran,2015, 115.000 - 120.000
+Honda CR-V,Rp 749.100.000,Cilandak,2023, 0 - 5.000
+Mini Cooper,Rp 645.000.000,Kebayoran Baru,2018, 15.000 - 20.000
+Land Rover Discovery,Rp 410.000.000,Cilandak,1998, 50.000 - 55.000
+Mitsubishi Xpander,Rp 240.000.000,Cilandak,2021, 60.000 - 65.000
+Toyota Land Cruiser,Rp 2.850.000.000,Cilandak,2023, 0 - 5.000
+Toyota Sienta,Rp 192.000.000,Cilandak,2018, 80.000 - 85.000
+Nissan X-Trail,Rp 95.000.000,Cilandak,2008, 125.000 - 130.000
+Toyota Kijang Innova,Rp 238.000.000,Pasar Minggu,2017, 80.000 - 85.000
+Honda HR-V,Rp 175.000.000,Mampang Prapatan,2015, 155.000 - 160.000
+Honda HR-V,Rp 175.000.000,Mampang Prapatan,2015, 155.000 - 160.000
+BMW 740Li,Rp 825.000.000,Cilandak,2017, 25.000 - 30.000
+Toyota Fortuner,Rp 410.000.000,Cilandak,2019, 20.000 - 25.000
+Nissan Serena,Rp 285.000.000,Cilandak,2018, 70.000 - 75.000
+Kia Lain-lain,Rp 1.050.000.000,Cilandak,2023, 0 - 5.000
+Suzuki Ertiga,Rp 133.000.000,Cilandak,2016, 105.000 - 110.000
+Honda Freed,Rp 177.000.000,Cilandak,2015, 120.000 - 125.000
+Toyota Avanza,Rp 243.000.000,Cilandak,2021, 20.000 - 25.000
+Nissan March,Rp 76.000.000,Cilandak,2013, 50.000 - 55.000
+Mercedes-Benz GL350 CDi,Rp 650.000.000,Cilandak,2014, 45.000 - 50.000
+BMW X5,Rp 675.000.000,Kebayoran Baru,2018, 20.000 - 25.000
+Honda HR-V,Rp 195.000.000,Kebayoran Lama,2018, 45.000 - 50.000
+Honda Brio,Rp 160.000.000,Kebayoran Baru,2019, 45.000 - 50.000
+Nissan Grand livina,Rp 71.000.000,Cilandak,2008, 175.000 - 180.000
+Jeep Wrangler,Rp 622.000.000,Jakarta Selatan,2011, 60.000 - 65.000
+Land Rover Defender,Rp 3.650.000.000,Pancoran,2020, 15.000 - 20.000
+Toyota Vellfire,Rp 334.999.000,Cilandak,2014, 80.000 - 85.000
+Toyota Alphard,Rp 989.999.000,Cilandak,2021, 15.000 - 20.000
+Toyota Kijang Innova,Rp 404.999.000,Cilandak,2022, 25.000 - 30.000
+Toyota Rush,Rp 224.999.000,Cilandak,2022, 15.000 - 20.000
+Nissan Evalia,Rp 85.000.000,Cilandak,2014, 75.000 - 80.000
+Honda Brio Satya,Rp 109.500.000,Cilandak,2017, 135.000 - 140.000
+Toyota Land Cruiser,Rp 1.248.000.000,Cilandak,2013, 80.000 - 85.000
+BMW Z4,Rp 1.580.000.000,Kebayoran Baru,2023, 0 - 5.000
+Toyota Agya,Rp 94.000.000,Cilandak,2015, 120.000 - 125.000
+Daihatsu Sigra,Rp 120.000.000,Cilandak,2020, 15.000 - 20.000
+Toyota Agya,Rp 78.000.000,Cilandak,2014, 100.000 - 105.000
+Honda BR-V,Rp 156.000.000,Cilandak,2016, 75.000 - 80.000
+Hyundai H1,Rp 325.000.000,Kebayoran Baru,2017, 90.000 - 95.000
+Nissan Serena,Rp 131.000.000,Mampang Prapatan,2013, 120.000 - 125.000
+Volkswagen Tiguan,Rp 399.000.000,Kebayoran Baru,2021, 25.000 - 30.000
+Suzuki APV,Rp 125.000.000,Kebayoran Baru,2013, 90.000 - 95.000
+Nissan Serena,Rp 89.000.000,Jakarta Selatan,2013, 180.000 - 185.000
+Mazda CX-5,Rp 335.000.000,Mampang Prapatan,2017, 60.000 - 65.000
+Mercedes-Benz B200,Rp 239.000.000,Cilandak,2014, 75.000 - 80.000
+Mini Cooper Mini Cooper,Rp 774.000.000,Kebayoran Lama,2022, 0 - 5.000
+Lain-lain Lain-lain,Rp 5.000.000.000,Mampang Prapatan,2023, 0 - 5.000
+Suzuki SX4,Rp 195.000.000,Cilandak,2022, 30.000 - 35.000
+Mercedes-Benz GLA200,Rp 358.000.000,Kebayoran Baru,2014, 40.000 - 45.000
+Nissan Serena,Rp 295.000.000,Mampang Prapatan,2019, 10.000 - 15.000
+Mini Cooper S Countryman,Rp 675.000.000,Pancoran,2018, 35.000 - 40.000
+Mitsubishi Xpander,Rp 287.500.000,Pasar Minggu,2023, 10.000 - 15.000
+Toyota Vellfire,Rp 345.000.000,Cilandak,2013, 85.000 - 90.000
+Toyota Avanza,Rp 104.000.000,Cilandak,2013, 150.000 - 155.000
+Toyota Sienta,Rp 160.000.000,Cilandak,2017, 140.000 - 145.000
+Toyota Kijang Innova,Rp 169.000.000,Cilandak,2015, 90.000 - 95.000
+Suzuki Ertiga,Rp 155.000.000,Cilandak,2018, 70.000 - 75.000
+Mercedes-Benz C250,Rp 548.000.000,Kebayoran Baru,2016, 30.000 - 35.000
+Honda Jazz,Rp 195.000.000,Cilandak,2016, 50.000 - 55.000
+Mazda MX 5 RF,Rp 595.000.000,Jakarta Selatan,2018, 15.000 - 20.000
+Honda HR-V,Rp 220.000.000,Cilandak,2017, 85.000 - 90.000
+Mercedes-Benz E300,Rp 668.000.000,Kebayoran Baru,2017, 20.000 - 25.000
+Honda HR-V,Rp 215.000.000,Kebayoran Lama,2018, 55.000 - 60.000
+Isuzu MuX,Rp 570.000.000,Mampang Prapatan,2023, 0 - 5.000
+Honda CR-V,Rp 539.000.000,Mampang Prapatan,2023, 20.000 - 25.000
+Volkswagen Polo,Rp 133.000.000,Cilandak,2015, 75.000 - 80.000
+BMW 520i,Rp 99.000.000,Pesanggrahan,2003, 105.000 - 110.000
+Honda Civic,Rp 67.000.000,Pasar Minggu,1992, 110.000 - 115.000
+Toyota Alphard,Rp 940.000.000,Jakarta Selatan,2020, 30.000 - 35.000
+Toyota Fortuner,Rp 219.000.000,Kebayoran Baru,2012, 110.000 - 115.000
+Toyota Fortuner,Rp 320.000.000,Pancoran,2015, 65.000 - 70.000
+Honda Civic,Rp 339.000.000,Kebayoran Lama,2018, 30.000 - 35.000
+Toyota Calya,Rp 105.000.000,Cilandak,2019, 150.000 - 155.000
+Honda Freed,Rp 147.000.000,Cilandak,2013, 95.000 - 100.000
+Toyota Sienta,Rp 168.000.000,Cilandak,2018, 85.000 - 90.000
+Honda Brio Satya,Rp 96.000.000,Cilandak,2015, 20.000 - 25.000
+Toyota Alphard,Rp 295.000.000,Mampang Prapatan,2015, 105.000 - 110.000
+Mercedes-Benz GLA-Class,Rp 458.000.000,Kebayoran Lama,2016, 20.000 - 25.000
+Lexus RX300,Rp 873.000.000,Kebayoran Baru,2018, 20.000 - 25.000
+Toyota Camry,Rp 325.000.000,Cilandak,2020, 50.000 - 55.000
+Toyota Avanza,Rp 73.800.000,Mampang Prapatan,2006, 155.000 - 160.000
+Toyota Soluna,Rp 36.000.000,Jakarta Selatan,2004, 205.000 - 210.000
+BMW 318i,Rp 120.000.000,Kebayoran Baru,2002, 165.000 - 170.000
+Peugeot RCZ,Rp 497.000.000,Kebayoran Baru,2012, 15.000 - 20.000
+Toyota Avanza,Rp 109.000.000,Kebayoran Baru,2013, 45.000 - 50.000
+Wuling Almaz RS,Rp 260.000.000,Cilandak,2021, 15.000 - 20.000
+Toyota Hiace,Rp 550.000.000,Pancoran,2010, 75.000 - 80.000
+Ford Mustang,Rp 1.015.000.000,Cilandak,2016, 0 - 5.000
+Honda CR-V,Rp 166.000.000,Jakarta Selatan,2012, 85.000 - 90.000
+BMW 520i,Rp 925.000.000,Pasar Minggu,2022, 10.000 - 15.000
+Honda HR-V,Rp 175.000.000,Cilandak,2017, 110.000 - 115.000
+Toyota Yaris,Rp 190.000.000,Cilandak,2019, 20.000 - 25.000
+Honda Brio Satya,Rp 148.000.000,Cilandak,2021, 35.000 - 40.000
+Mazda CX-3,Rp 251.000.000,Cilandak,2019, 50.000 - 55.000
+Honda HR-V,Rp 223.000.000,Kebayoran Baru,2018, 45.000 - 50.000
+Suzuki S-Presso,Rp 152.000.000,Cilandak,2024, 0 - 5.000
+BMW X1,Rp 195.000.000,Pesanggrahan,2013, 70.000 - 75.000
+Wuling Cortez,Rp 160.000.000,Kebayoran Lama,2019, 20.000 - 25.000
+Jeep Sahara,Rp 755.000.000,Kebayoran Lama,2010, 35.000 - 40.000
+Hyundai Kona,Rp 235.000.000,Kebayoran Lama,2019, 20.000 - 25.000
+Mitsubishi Xpander,Rp 245.000.000,Cilandak,2022, 65.000 - 70.000
+Mazda CX-9,Rp 490.000.000,Cilandak,2018, 30.000 - 35.000
+Mini Cooper Mini Cooper,Rp 810.000.000,Cilandak,2021, 15.000 - 20.000
+Honda HR-V,Rp 280.000.000,Kebayoran Baru,2021, 35.000 - 40.000
+Toyota Avanza,Rp 142.000.000,Pesanggrahan,2015, 110.000 - 115.000
+Honda CR-V,Rp 475.000.000,Kebayoran Lama,2021, 65.000 - 70.000
+Jeep Cherokee,Rp 425.000.000,Cilandak,2015, 30.000 - 35.000
+Mercedes-Benz S400,Rp 800.000.000,Kebayoran Lama,2015, 35.000 - 40.000
+Mercedes-Benz E250,Rp 260.000.000,Cilandak,2012, 90.000 - 95.000
+Honda CR-V,Rp 343.000.000,Cilandak,2018, 55.000 - 60.000
+Honda BR-V,Rp 159.000.000,Cilandak,2017, 50.000 - 55.000
+Nissan Serena,Rp 202.000.000,Cilandak,2018, 60.000 - 65.000
+Suzuki Ignis,Rp 102.000.000,Cilandak,2017, 75.000 - 80.000
+BMW 520i,Rp 835.000.000,Kebayoran Baru,2021, 5.000 - 10.000
+BMW Z4,Rp 737.000.000,Kebayoran Baru,2013, 10.000 - 15.000
+Toyota Raize,Rp 215.000.000,Cilandak,2021, 15.000 - 20.000
+Mercedes-Benz E63 AMG,Rp 2.700.000.000,Kebayoran Baru,2022, 0 - 5.000
+Toyota Fortuner,Rp 302.000.000,Pesanggrahan,2015, 100.000 - 105.000
+Suzuki Ignis,Rp 120.000.000,Pesanggrahan,2018, 40.000 - 45.000
+Daihatsu Xenia,Rp 81.000.000,Cilandak,2011, 115.000 - 120.000
+Nissan Teana,Rp 185.000.000,Pasar Minggu,2016, 90.000 - 95.000
+Honda Mobilio,Rp 121.000.000,Pancoran,2016, 50.000 - 55.000
+Mitsubishi Xpander,Rp 205.000.000,Kebayoran Baru,2020, 70.000 - 75.000
+Mercedes-Benz E250,Rp 975.000.000,Kebayoran Baru,2014, 10.000 - 15.000
+Mitsubishi Xpander,Rp 185.000.000,Kebayoran Baru,2019, 55.000 - 60.000
+Toyota Fortuner,Rp 390.000.000,Kebayoran Lama,2019, 90.000 - 95.000
+BMW 520i,Rp 420.000.000,Kebayoran Lama,2017, 25.000 - 30.000
+BMW X1,Rp 235.000.000,Kebayoran Lama,2011, 100.000 - 105.000
+Mitsubishi Outlander,Rp 162.000.000,Cilandak,2015, 115.000 - 120.000
+Honda Civic,Rp 160.000.000,Cilandak,2015, 125.000 - 130.000
+Toyota Yaris,Rp 143.000.000,Cilandak,2017, 120.000 - 125.000
+Mitsubishi Pajero,Rp 349.000.000,Cilandak,2019, 60.000 - 65.000
+Toyota Kijang Innova,Rp 165.000.000,Pesanggrahan,2012, 85.000 - 90.000
+DFSK Glory 580,Rp 168.000.000,Mampang Prapatan,2024, 0 - 5.000
+Jeep Jeep,Rp 130.000.000,Kebayoran Lama,1986, 95.000 - 100.000
+Honda HR-V,Rp 185.000.000,Kebayoran Lama,2016, 65.000 - 70.000
+Daihatsu Gran max,Rp 105.000.000,Kebayoran Lama,2019, 85.000 - 90.000
+Daihatsu Ayla,Rp 115.000.000,Kebayoran Lama,2022, 0 - 5.000
+Nissan March,Rp 92.500.000,Cilandak,2011, 100.000 - 105.000
+Honda Accord,Rp 340.000.000,Pesanggrahan,2018, 45.000 - 50.000
+Toyota Raize,Rp 233.000.000,Pesanggrahan,2021, 15.000 - 20.000
+Honda CR-V,Rp 112.000.000,Mampang Prapatan,2011, 140.000 - 145.000
+Toyota Corolla Altis,Rp 289.000.000,Cilandak,2019, 135.000 - 140.000
+Mazda CX-5,Rp 173.000.000,Cilandak,2013, 75.000 - 80.000
+Nissan Serena,Rp 129.900.000,Mampang Prapatan,2013, 125.000 - 130.000
+Toyota Fortuner,Rp 499.000.000,Cilandak,2021, 10.000 - 15.000
+Peugeot Lain-lain,Rp 399.000.000,Cilandak,2022, 5.000 - 10.000
+Daihatsu Terios,Rp 146.000.000,Cilandak,2017, 110.000 - 115.000
+Honda HR-V,Rp 201.000.000,Kebayoran Lama,2021, 20.000 - 25.000
+Toyota Rush,Rp 125.000.000,Kebayoran Lama,2013, 75.000 - 80.000
+Toyota Sienta,Rp 149.000.000,Kebayoran Lama,2017, 100.000 - 105.000
+Honda CR-V,Rp 295.000.000,Cilandak,2018, 60.000 - 65.000
+Mini 3 Door,Rp 785.000.000,Cilandak,2022, 0 - 5.000
+BMW 535i,Rp 445.000.000,Kebayoran Baru,2013, 45.000 - 50.000
+Toyota Fortuner,Rp 175.000.000,Jakarta Selatan,2010, 110.000 - 115.000
+Toyota Kijang,Rp 52.500.000,Kebayoran Lama,1999, 110.000 - 115.000
+Mazda CX-5,Rp 335.000.000,Cilandak,2017, 55.000 - 60.000
+Wuling Almaz,Rp 179.000.000,Pesanggrahan,2019, 35.000 - 40.000
+Nissan Grand livina,Rp 119.000.000,Kebayoran Lama,2017, 35.000 - 40.000
+Suzuki Splash,Rp 98.000.000,Cilandak,2014, 90.000 - 95.000
+Mitsubishi Strada Triton,Rp 255.000.000,Cilandak,2014, 75.000 - 80.000
+Toyota Yaris,Rp 109.000.000,Kebayoran Lama,2012, 90.000 - 95.000
+Toyota Agya,Rp 100.000.000,Pancoran,2015, 65.000 - 70.000
+Suzuki Sidekick,Rp 75.000.000,Kebayoran Lama,1998, 70.000 - 75.000
+Toyota Yaris,Rp 113.000.000,Cilandak,2011, 35.000 - 40.000
+Nissan March,Rp 86.500.000,Cilandak,2012, 90.000 - 95.000
